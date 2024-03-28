@@ -1,5 +1,5 @@
 # redis-vector-store
-Code to build a vector store with Redis
+Code to build a vector store with Redis.
 
 The notebook contains below functionalities:
 * Setting up Open Source Redis Stack on Local
